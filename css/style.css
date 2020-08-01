@@ -95,4 +95,24 @@
       padding-left: .5rem !important;
     }
   }
-    
+
+/*------------------------ MAIN -----------------------------------*/
+
+  #home-page {
+    background-image: url("../img/home-banner.svg");
+    background-size: cover;
+    color: #fff;
+  }
+  .home-page-div {
+    background: rgba(58, 58, 58, 0.7);
+    height: 500px;
+  }
+  .home-page-upper h1 {
+    color: #FCC139;
+  }
+  .home-page-upper hr {
+    border-color: #fff;
+    width: 10%;
+    border-width: 3px;
+    border-radius: 50px;
+  }
