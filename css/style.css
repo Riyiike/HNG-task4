@@ -116,3 +116,149 @@
     border-width: 3px;
     border-radius: 50px;
   }
+  .home-page-upper p {
+    font-size: 24px;
+    line-height: 30px;
+  }
+  .home-page-upper a, .button {
+    background-color: #fff;
+    text-decoration: none;
+  }
+  .button {
+    display: inline-block;
+  }
+  #home-page a:hover, .news-container a:hover {
+    background-color: #FCC139;
+    color: #000;
+    font-weight: 600;
+    text-decoration: none;
+  }
+  .home-page-lower {
+    background-color: #3A3A3A;
+    font-weight: 600;
+  }
+  .inner-div1 {
+    background-image: url("../img/best.svg");
+    background-size: cover;
+    height: 300px;
+  }
+  .inner-div2 {
+    background-image: url("../img/modern.svg");
+    background-size: cover;
+    height: 300px;
+  }
+  .inner-div3 {
+    background-image: url("../img/team.svg");
+    background-size: cover;
+    height: 300px;
+  }
+  .abt {
+    padding-top: 40%;
+  }
+  .abt h3 {
+    background-color: #3A3A3A;
+    color: #FCC139;
+  }
+  .services-div p {
+    line-height: 22px;
+    color: #908888;
+  }
+  .project-container{
+    background-image: url("../img/city.svg");
+    background-size: cover;
+  }
+  .inner-project {
+    background-color: rgba(32, 46, 49, 0.8);
+  }
+  .inner-project .carousel-inner, .blog-container .carousel-inner {
+    width: fit-content;
+    margin: auto;
+  }
+  .house, .circle {
+    max-width: fit-content;
+  }
+  .inner-project .arrow-i {
+    margin-top: 360%;
+  }
+  .hr {
+    width: 9%;
+    border-width: 4px;
+    border-radius: 50px;
+    border-color: #FCC139 !important;
+  }
+  .blog-container {
+    background-color: #C4C4C4;
+  }
+  .construction {
+    max-width: 50%;
+    height: 230px;
+    background-color: white;
+  }
+  .grey-bg {
+    background-color: #3A3A3A;
+    color: #FCC139;
+  }
+  .construction p {
+    font-size: 25px;
+    line-height: 40px;
+    color: #3A3A3A;
+  }
+  .arrow {
+    background-color: #3A3A3A;
+  }
+  .service-inner-container div {
+    border: 1px solid #000;
+    box-shadow: 0px 0px 10px 15px #F3F3F3;
+  }
+  .service-inner-container img {
+    width: 40%;
+  }
+  .exc {
+    width: 55% !important;
+  }
+  .service-inner-container hr {
+    border-color: #000;
+    border-width: 1px;
+  }
+  .testimonial-container {
+    background-image: url("../img/city2.svg");
+  }
+  .testimonial-inner-container {
+    background-color: rgba(32, 46, 49, 0.8);
+    color: #fff;
+  }
+  .testimonial-inner-container .row1 {
+    background-color:  #202E31;
+  }
+  .testimonial-inner-container .row2 {
+    background-color:  #29444a;
+  }
+  .testimonial-inner-container .row3 {
+    background-color:  #63a0ad;
+  }
+  .ceo {
+    padding-left: 15%;
+    font-weight: 600;
+  }
+  .quote {
+    font-size: 20px;
+    line-height: 35px;
+    padding-right: 15%;
+  }
+  .news-container {
+    background-color: #C4C4C4;
+  }
+  .news-container .row .col-md-12 {
+    max-width: 50%;
+    margin: auto;
+  }
+  .news-container p {
+    font-size: 25px;
+  }
+  .right{
+    margin-top: 200% !important;
+    margin-left: 40%;
+  }
+  .left {
+    margin-top: 195% !important;
+  }
